@@ -1,3 +1,7 @@
+https://github.com/EchoChua/hw-ruby-intro.git
+
+Name: XingyiCai
+UIN: 727006580
 
 Ruby intro part 1
   #sum
